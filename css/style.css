@@ -590,7 +590,7 @@ footer p strong {
 
 /*======== project section styling =========*/
 .projects .title::after{
-    content: "what i design";
+    content: "what i developed";
 }
 div.gallery {
     border: 2px solid #ccc;
